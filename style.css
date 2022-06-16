@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lusitana:400,300");
+@import url("https://fonts.googleapis.com/css?family=Newsreader:400,300");
 
 /* Base Styles
 ********************************************************************* */
@@ -7,7 +7,7 @@ html {
 }
 
 h1 {
-  font-family: 'Lusitana', Helvetica, Arial, sans-serif;
+  font-family: 'Newsreader', Helvetica, Arial, sans-serif;
 }
 
 body {
@@ -258,7 +258,7 @@ header {
 	margin: 0;
 	padding: 0;
 	color: #FFFFFF;
-  font-family: 'Lusitana', Helvetica, Arial, sans-serif;
+  font-family: 'Newsreader', Helvetica, Arial, sans-serif;
 }
 .title h2 {
 	color: #FFFFFF;
@@ -273,8 +273,8 @@ header {
 @media only screen and (max-height: 700px) {
 .title h1 {
 	font-size: 106px;
-  font-family: 'Lusitana', Helvetica, Arial, sans-serif;
-  letter-spacing: -8px;
+  font-family: 'Newsreader', Helvetica, Arial, sans-serif;
+  letter-spacing: 0px;
 }
 }
 .title p {
